@@ -1,6 +1,6 @@
 # Scanner de Vulnerabilidades
 
-Um scanner de vulnerabilidades simples desenvolvido com Flask para detectar possíveis vulnerabilidades em websites. Este projeto é destinado a fins educacionais e para ajudar a compreender os conceitos básicos de um scanner de vulnerabilidades.
+Um scanner de vulnerabilidades simples desenvolvido com Flask para detectar possíveis vulnerabilidades em websites.
 
 ## Funcionalidades
 
@@ -17,13 +17,11 @@ Um scanner de vulnerabilidades simples desenvolvido com Flask para detectar poss
 ## Instalação
 
 1. Clone o Repositório
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/N3CR0-end/scan_vunerability.git
+   or gh repo clone N3CR0-end/scan_vunerability
 Navegue até o Diretório do Projeto
 
 
-Copiar código
-cd nome-do-repositorio
-Crie e Ative um Ambiente Virtual
 
 
 Copiar código
